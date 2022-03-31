@@ -1,0 +1,9 @@
+You are to create a card game for 4 players. 
+The players each draw a card from a deck each round. 
+The player who draws the highest card will win the round and score a point. When there are no more cards left in the deck, the game should end with a scoreboard that displays the players ranked in order of the total number of points they have scored.
+
+card deck = 52 cards // A = 1; J = 11, Q = 12; K = 13;
+round = 13 rounds
+suit priority from high to low Spade -> Heart -> Club -> Diamond
+
+kahseng.lim@mili.eu
